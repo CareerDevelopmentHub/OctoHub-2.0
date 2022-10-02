@@ -81,7 +81,7 @@ public class Quiz extends JFrame implements ActionListener{
 		if(currques==4)
 		{
 			jlable.setText("Java Is");
-			jradiobutton[0].setText("Platform Independent");jradiobutton[1].setText("Platform Dependent");jradiobutton[2].setText("Both ");jradiobutton[3].setText("None of Above");	
+			jradiobutton[0].setText("Platform Independent");jradiobutton[1].setText("Platform Dependent");jradiobutton[2].setText("Both 1 and 2");jradiobutton[3].setText("None of Above");	
 		}
 
 		jlable.setBounds(30,40,450,20);
