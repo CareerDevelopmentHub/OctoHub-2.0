@@ -40,7 +40,7 @@ Fork/Copy the repo by clicking the right most button on top of the page.
 
 Go to your own repository list and find the forked repository.
 
-Clone the repo:
+Clone the repo:-
 
 ```
 git clone https://github.com/GITHUB_USERNAME/REPOSITORIE_NAME
