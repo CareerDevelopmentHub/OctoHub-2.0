@@ -66,7 +66,7 @@ git add .
 git commit -m "ANY_MESSAGE"
 ```
 
-Push the Changes to your own forked repository:
+Push the Changes to your own forked repository:-
 
 ```
 git push origin main
