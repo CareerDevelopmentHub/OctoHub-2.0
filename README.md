@@ -36,5 +36,5 @@ To qualify for the __official limited edition Hacktoberfest shirt__, you must re
 
 - Many of the candidates get attracted towards hacktoberfest to get swags . So, after 4 successfully merged pull request as for 2022 you will be eligible to get a Hacktoberfest T-shirt and Some stickers on your doorstep.
  
-     <li><B><p><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--G4XFsh9I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.hashnode.com/res/hashnode/image/upload/v1634576605236/NjGiFCFGr.jpeg" width="400" height="225" style="width: 400px; height: 225px;" alt="tshirt image"></a></p>
+     <li><B><p><img src="https://i.ytimg.com/vi/1sVhrRAjoto/mqdefault.jpg" width="400" height="225" style="width: 400px; height: 225px;" alt="tshirt image"></a></p>
 </b></li>
