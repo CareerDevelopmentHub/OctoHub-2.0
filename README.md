@@ -1,4 +1,4 @@
-<div align="center"> <h1>&#128187; OctoHub  &#127873;</h1> </div>
+<div align="center"> <h1>&#128187; OctoHub 2.0 &#127873;</h1> </div>
 <p align="center">
 
 <p align="middle">
@@ -23,7 +23,7 @@ A month-long celebration from October 1st to October 31st presented by [Digital 
 
 ## Rules &#129534;
 
-To qualify for the __official limited edition Hacktoberfest shirt__, you must register [here](https://hacktoberfest.digitalocean.com/) and make four Pull Requests (PRs) between October 1-31, 2022 (in any time zone). PRs can be made to any public repo on GitHub, not only the ones with issues labeled Hacktoberfest. This year, the __first 40,000__ participants who complete the challenge will earn a T-shirt.
+To qualify for the __official limited edition Hacktoberfest shirt__, you must register [here](https://hacktoberfest.digitalocean.com/) and make four Pull Requests (PRs) between October 1-31, 2023 (in any time zone). PRs can be made to any public repo on GitHub, not only the ones with issues labeled Hacktoberfest. This year, the __first 40,000__ participants who complete the challenge will earn a T-shirt.
 
 ## Where to search for Projects/Repository &#128373;&#65039;&#128373;&#65039;&#8205;&#9792;&#65039; :-
 
