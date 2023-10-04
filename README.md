@@ -63,9 +63,11 @@ git push
  </div>
 <br>
 
-![Image](./assets/banner.jpg)
-        
+<div align="center">
 
+![Image](./assets/banner.jpg)
+
+</div>
 ## ➤ License
 Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
         
