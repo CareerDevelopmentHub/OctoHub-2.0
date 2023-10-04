@@ -14,14 +14,17 @@ An open-source program by Career Development Hub,<br> Institute of Technical Edu
 ### 🦄 We are accepting contributions under Hacktoberfest 2023.
     
 <div align="center" id="hacktober-banner">
-![Image](./assets/banner-logo.png)
+<img src="./assets/banner-logo.png">
 </div>     
 
 ### About HacktoberFest 2023 🚀
 Hacktoberfest is DigitalOcean's annual event that encourages people to contribute to open source throughout October. Much of modern tech infrastructure—including some of DigitalOcean s own products—relies on open-source projects built and maintained by passionate people who often don't have the staff or budgets to do much more than keep the project alive. Hacktoberfest is all about giving back to those projects, sharpening skills, and celebrating all things open source, especially the people that make open source so special. For the past 10 years, thousands of people—coders and non-coders alike—have participated in Hacktoberfest to support the projects they use and love, learn and practice skills that will enhance their careers, and meet new people who love open source as much as they do.
 
 ### Yayy🎉 We have benignner friendly issues open for first time contributors.
-Found something on which you want to work and make a contribution, no worries:
+We have this awesome Git Cheat Sheet for you to get started with Git and GitHub. [Download it from here⬇️](./assets/git-cheat-sheet.pdf)
+<br>
+<br>
+👀 Found something on which you want to work and make a contribution, no worries:
 -  Create an issue and upon successful review, we will assign it to you.
 -  You can also comment on an existing issue created by us, to get it assigned to yourself.
 
@@ -58,8 +61,9 @@ git push
 | Row 2    | Row 2           | Row 2             | Row 1             |
 | Row 3    | Row 3           | Row 3             | Row 1             |
  </div>
+<br>
 
-![Image](https://i.imgur.com/0Z0Z0Z0.png)
+![Image](./assets/banner.jpg)
         
 
 ## ➤ License
