@@ -68,7 +68,7 @@ git push
 ![Image](./assets/banner.jpg)
 
 </div>
-## ➤ License
+➤ License
 Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
         
 
